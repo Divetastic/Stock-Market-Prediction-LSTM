@@ -20,3 +20,4 @@ This project is a deep learning-based model that predicts Google's stock prices 
 5. *Evaluation*: RMSE of ~0.001 and strong visual match to actual data.
 
 ## Sample Output
+![Predictions_vs_actual](https://github.com/user-attachments/assets/52c5d557-a060-4666-97bb-4fcd089e1cc9)
